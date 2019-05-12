@@ -1,0 +1,28 @@
+[info]
+author = 
+icon = 
+name = gim
+title = View to show gim elements
+
+[paths]
+assets_dirs = projects/gim/assets;
+blend_dirs = projects/gim/blender;
+blender_exec = /usr/bin/blender
+build_dir = projects/gim/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = whitespace
+use_physics = True
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
