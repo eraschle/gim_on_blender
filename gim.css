@@ -11,7 +11,8 @@ body {
 }
 
 #main_canvas_container {
-  position: relative;
+  left: 20%;
+  top: 10%;
   width: 70%;
   height: 70%;
 }
